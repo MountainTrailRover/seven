@@ -1,9 +1,6 @@
 import React, { Component } from "react";
 import TodoItems from "./TodoItems";
-<<<<<<< HEAD
 import "./TodoList.css";
-=======
->>>>>>> d48918894a6fc94563e3d9c0e5ccc2d9d528ee5c
 
 class TodoList extends Component {
   constructor(props) {
