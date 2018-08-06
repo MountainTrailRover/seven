@@ -7,7 +7,7 @@ var destination = document.querySelector("#root");
 
 ReactDOM.render(
     <div>
-        <h1>Time to lay out the day!</h1>
+        <h1>Seven / Do More</h1>
         <TodoList/>
     </div>,
     destination

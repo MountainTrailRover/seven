@@ -1,9 +1,14 @@
 body {
   padding: 50px;
-  background-color: #ddd;
+  background-color: #d7dcdd;
   font-family: sans-serif;
 }
 #root {
   display: flex;
   justify-content: center;
+}
+
+h1{
+  color: #3b4446;
+  font-family: 'open sans', sans-serif;
 }
